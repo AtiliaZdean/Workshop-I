@@ -21,28 +21,6 @@ This project is a command-line-based **reservation system** designed for managin
 
 - **SDG 11: Sustainable Cities and Communities** – By improving residential cleaning service management, this system contributes to healthier living environments and enhances service efficiency in urban areas.
 
-## Installation & Usage
-
-### Prerequisites:
-- C++ compiler (such as GCC or MSVC)  
-- Basic command-line knowledge  
-
-### Steps:
-1. **Clone the Repository:**  
-   ```bash
-   git clone https://github.com/AtiliaZdean/Workshop-I.git
-   cd Workshop-I
-   ```
-2. **Compile the Application:**  
-   ```bash
-   g++ main.cpp -o ReservationSystem
-   ```
-3. **Run the Application:**  
-   ```bash
-   ./ReservationSystem
-   ```
-4. **Usage:** Follow the on-screen prompts for registration, booking a service, and submitting feedback.
-
 ## Future Improvements
 
 - Develop a **GUI version** for better usability.  
