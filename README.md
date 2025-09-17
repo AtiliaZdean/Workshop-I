@@ -27,6 +27,12 @@ This project is a command-line-based **reservation system** designed for managin
 - Integrate with a **persistent database** instead of file-based storage.  
 - Expand features for **reservation cancellation** and **modification options**.
 
+## Academic Report Access  
+
+The full academic report for HygieiaHub is available via Google Drive.  
+Access is restricted to protect academic integrity and privacy.  
+🔗 [Request Access to Report](https://drive.google.com/file/d/1rNcdumbA1P2S_mn7j1uRt6IeSdG7A58W/view?usp=sharing)
+
 ## Contact
 
 For inquiries, feel free to reach out via email: [shahira.zainuddin@yahoo.com](mailto:shahira.zainuddin@yahoo.com).
