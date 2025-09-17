@@ -29,7 +29,7 @@ This project is a command-line-based **reservation system** designed for managin
 
 ## Academic Report Access  
 
-The full academic report for HygieiaHub is available via Google Drive.  
+The full academic report for this project is available via Google Drive.  
 Access is restricted to protect academic integrity and privacy.  
 🔗 [Request Access to Report](https://drive.google.com/file/d/1rNcdumbA1P2S_mn7j1uRt6IeSdG7A58W/view?usp=sharing)
 
